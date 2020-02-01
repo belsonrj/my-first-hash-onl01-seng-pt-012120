@@ -19,7 +19,7 @@ shipping_manifest["oil paintings"]
 
 end
 
-def adding(shipping_manifest)
+def adding
   shipping_manifest = {
                   "whale bone corsets" => 5, 
                   "porcelain vases" => 2, 
